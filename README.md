@@ -28,7 +28,7 @@
 <p>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40"/></a>&nbsp;
   <a href="https://www.jetbrains.com/ru-ru/youtrack/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/YouTrack_Icon.svg" title="YouTrack" alt="YouTrack" width="40"/></a>&nbsp;
-  <a href="https://www.testrail.com" target="_blank"><img src="https://cdn.simpleicons.org/testrail/45C7F7" title="TestRail" alt="TestRail" width="40"/></a>nbsp;
+  <a href="https://www.testrail.com" target="_blank"><img src="https://cdn.simpleicons.org/testrail/45C7F7" title="TestRail" alt="TestRail" width="40"/></a>&nbsp;
   <a href="https://testit.software/" target="_blank"><img src="https://img.shields.io/badge/Test_IT-090909?style=flat" alt="Test IT"/></a>&nbsp;
   <a href="https://qase.io/" target="_blank"><img src="https://cdn.simpleicons.org/qase/000000" title="Qase" alt="Qase" width="40"/></a>&nbsp;
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40"/></a>&nbsp;
