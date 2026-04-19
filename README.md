@@ -71,12 +71,13 @@
 
 ## Тестовые артефакты
 
-- **Web / веб-тестирование** — исследовательское и функциональное тестирование *(репозиторий — позже)*
-- **API** — REST и SOAP в Postman *(репозиторий — позже)*
-- **MySQL** — запросы и проверки данных *(репозиторий — позже)*
-- **MongoDB** — запросы и упражнения *(репозиторий — позже)*
-- **Android** — ручные кейсы и баг-репорты *(репозиторий — позже)*
-- **Charles Proxy** — моки ответов и сетевой трафик *(репозиторий — позже)*
-- **Bash** — скрипты под задачи QA *(репозиторий — позже)*
-- **Git** — базовые операции и рабочий процесс *(репозиторий — позже)*
-
+<ul>
+  <li><a href="https://github.com/qa-novchenkova/web_testing">Web</a> – исследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/">API</a> – REST and SOAP</li>
+  <li><a href="https://github.com/">MySQL</a> – запросы и проверки данных</li>
+  <li><a href="https://github.com/">MongoDB</a> – NoSQL запросы и упражнения</li>
+  <li><a href="https://github.com/">Android App Testing</a> – ручные кейсы и баг-репорты</li>
+  <li><a href="https://github.com/">Charles Proxy</a> – подмена ответов и сетевой трафик</li>
+  <li><a href="https://github.com/">Bash</a> – скрипты под задачи QA</li>
+  <li><a href="https://github.com/">Git</a> – базовые операции и рабочий процесс</li>
+</ul>
