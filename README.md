@@ -8,20 +8,17 @@
 
 🌱 Сейчас **системно углубляюсь в ручное QA**, а также изучаю **Python** для перехода в **автоматизацию**.
 
----
 
 ## Резюме
 
 [Резюме — ссылка будет добавлена](#)
 
----
 
 ## Контакты
 
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:novchenkova.v@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://example.com) [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://example.com)
 
 
----
 
 ### Тестовая документация
 
@@ -35,8 +32,6 @@
  </p>
 
 
----
-
 ### Тестирование веб-приложений
 
 <p>
@@ -45,7 +40,6 @@
   <a href="https://www.soapui.org/" target="_blank"><img src="https://img.shields.io/badge/SoapUI-6CCB40?style=flat&logo=soapui&logoColor=white" alt="SoapUI"/></a>&nbsp;
 </p>
 
----
 
 ### Тестирование мобильных приложений
 
@@ -57,7 +51,6 @@
   <a href="https://proxyman.com/" target="_blank"><img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="Proxyman" alt="Proxyman" width="40"/></a>&nbsp;
 </p>
 
----
 
 ### Работа с данными
 
@@ -66,7 +59,6 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40"/></a>&nbsp;
 </p>
 
----
 
 ### Работа с кодом и окружением
 
@@ -76,7 +68,6 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40"/></a>&nbsp;
 </p>
 
----
 
 ## Тестовые артефакты
 
