@@ -72,7 +72,7 @@
 ## Тестовые артефакты
 
 <ul>
-  <li><a href="https://github.com/qa-novchenkova/web_testing">Web</a> – исследовательское и функциональное тестирование</li>
+  <li><a href="https://github.com/qa-novchenkova/web_testing"  target="_blank">Web</a> – исследовательское и функциональное тестирование</li>
   <li><a href="https://github.com/">API</a> – REST and SOAP</li>
   <li><a href="https://github.com/">MySQL</a> – запросы и проверки данных</li>
   <li><a href="https://github.com/">MongoDB</a> – NoSQL запросы и упражнения</li>
