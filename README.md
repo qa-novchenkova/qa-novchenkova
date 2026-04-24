@@ -76,7 +76,7 @@
   <li><a href="https://github.com/qa-novchenkova/api">API</a> – REST and SOAP</li>
   <li><a href="https://github.com/qa-novchenkova/sql">MySQL</a> – запросы и проверки данных</li>
   <li><a href="https://github.com/qa-novchenkova/mongodb">MongoDB</a> – NoSQL запросы и упражнения</li>
-  <li><a href="https://github.com/">Android App Testing</a> – ручные кейсы и баг-репорты</li>
+  <li><a href="https://github.com/qa-novchenkova/mobile_testing">Android App Testing</a> – чек-листы, тест-кейсы и баг-репорты</li>
   <li><a href="https://github.com/">Charles Proxy</a> – подмена ответов и сетевой трафик</li>
   <li><a href="https://github.com/">Bash</a> – скрипты под задачи QA</li>
   <li><a href="https://github.com/">Git</a> – базовые операции и рабочий процесс</li>
