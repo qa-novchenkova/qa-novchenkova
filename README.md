@@ -78,6 +78,6 @@
   <li><a href="https://github.com/qa-novchenkova/mongodb">MongoDB</a> – NoSQL запросы и упражнения</li>
   <li><a href="https://github.com/qa-novchenkova/mobile_testing">Android App Testing</a> – чек-листы, тест-кейсы и баг-репорты</li>
   <li><a href="https://github.com/qa-novchenkova/charles_proxy">Charles Proxy</a> – перехват, анализ и подмена сетевого трафика</li>
-  <li><a href="https://github.com/">Bash</a> – скрипты под задачи QA</li>
+  <li><a href="https://github.com/qa-novchenkova/bash">Bash</a> – команды в Git Bash: навигация, файлы, grep, find, sed, процессы, ping и curl</li>
   <li><a href="https://github.com/">Git</a> – базовые операции и рабочий процесс</li>
 </ul>
