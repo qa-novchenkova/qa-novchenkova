@@ -67,7 +67,9 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40"/></a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40"/></a>&nbsp;
   <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" alt="PhpStorm" width="40"/></a>&nbsp;
-  <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white" title="Sublime Text" alt="Sublime Text"/></a>&nbsp;
+  <a href="https://www.sublimetext.com/" target="_blank"><img src="https://cdn.simpleicons.org/sublimetext/FF9800" title="Sublime Text" alt="Sublime Text" width="40"/></a>&nbsp;
+  <a href="https://www.putty.org/" target="_blank"><img src="https://img.shields.io/badge/PuTTY-222222?style=flat" title="PuTTY" alt="PuTTY"/></a>&nbsp;
+  <a href="https://filezilla-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/filezilla/BF0000" title="FileZilla" alt="FileZilla" width="40"/></a>&nbsp;
 </p>
 
 
