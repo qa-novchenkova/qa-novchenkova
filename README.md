@@ -70,6 +70,7 @@
   <a href="https://www.sublimetext.com/" target="_blank"><img src="https://cdn.simpleicons.org/sublimetext/FF9800" title="Sublime Text" alt="Sublime Text" width="40"/></a>&nbsp;
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PuTTY-222222?style=flat" title="PuTTY" alt="PuTTY"/></a>&nbsp;
   <a href="https://filezilla-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/filezilla/BF0000" title="FileZilla" alt="FileZilla" width="40"/></a>&nbsp;
+  <a href="https://ospanel.io/" target="_blank"><img src="https://img.shields.io/badge/OpenServer-4B8BBE?style=flat" title="OpenServer" alt="OpenServer"/></a>&nbsp;
 </p>
 
 
