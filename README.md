@@ -66,6 +66,8 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40"/></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40"/></a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40"/></a>&nbsp;
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" title="PhpStorm" alt="PhpStorm" width="40"/></a>&nbsp;
+  <a href="https://www.sublimetext.com/" target="_blank"><img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublimetext&logoColor=white" title="Sublime Text" alt="Sublime Text"/></a>&nbsp;
 </p>
 
 
