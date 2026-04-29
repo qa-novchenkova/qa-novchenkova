@@ -79,6 +79,9 @@
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40"/>
   </a>&nbsp;
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://cdn.simpleicons.org/githubactions/2088FF" title="GitHub Actions" alt="GitHub Actions" width="40"/>
+  </a>&nbsp;
 </p>
 
  
@@ -96,4 +99,9 @@
   <li><a href="https://github.com/qa-novchenkova/bash">Bash</a> – команды в Git Bash: навигация, файлы, grep, find, sed, процессы, ping и curl</li>
   <li><a href="https://github.com/qa-novchenkova/git">Git</a> – базовые операции и ситуации, с которыми я сталкивалась на работе</li>
   <li><a href="https://github.com/qa-novchenkova/jenkins">CI/CD</a> – Jenkins: Freestyle и Pipeline сборки, параметризованный Jenkinsfile, запуск тестов </li>
+  <li>
+  <a href="https://github.com/qa-novchenkova/qa-dev-toolbox" target="_blank">QA Dev Toolbox</a> –
+  React-приложение с QA-инструментами, автотестами, сборкой через GitHub Actions и деплоем на
+  <a href="https://qa-novchenkova.github.io/qa-dev-toolbox/" target="_blank">GitHub Pages</a>
+</li>
 </ul>
