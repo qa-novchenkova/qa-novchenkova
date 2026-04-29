@@ -73,6 +73,16 @@
   <a href="https://ospanel.io/" target="_blank"><img src="https://img.shields.io/badge/OpenServer-4B8BBE?style=flat" title="OpenServer" alt="OpenServer"/></a>&nbsp;
 </p>
 
+### CI/CD
+
+<p>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40"/>
+  </a>&nbsp;
+</p>
+
+ 
+
 
 ## Тестовые артефакты
 
@@ -85,4 +95,5 @@
   <li><a href="https://github.com/qa-novchenkova/charles_proxy">Charles Proxy</a> – перехват, анализ и подмена сетевого трафика</li>
   <li><a href="https://github.com/qa-novchenkova/bash">Bash</a> – команды в Git Bash: навигация, файлы, grep, find, sed, процессы, ping и curl</li>
   <li><a href="https://github.com/qa-novchenkova/git">Git</a> – базовые операции и ситуации, с которыми я сталкивалась на работе</li>
+  <li><a href="https://github.com/qa-novchenkova/jenkins">CI/CD</a> – Jenkins: Freestyle и Pipeline сборки, параметризованный Jenkinsfile, запуск тестов </li>
 </ul>
