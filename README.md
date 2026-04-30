@@ -77,11 +77,9 @@
 
 <p>
   <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40"/>
-  </a>&nbsp;
-  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40"/></a><a href="https://github.com/features/actions" target="_blank">
     <img src="https://cdn.simpleicons.org/githubactions/2088FF" title="GitHub Actions" alt="GitHub Actions" width="40"/>
-  </a>&nbsp;
+  </a>
 </p>
 
  
