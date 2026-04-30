@@ -96,10 +96,10 @@
   <li><a href="https://github.com/qa-novchenkova/charles_proxy">Charles Proxy</a> – перехват, анализ и подмена сетевого трафика</li>
   <li><a href="https://github.com/qa-novchenkova/bash">Bash</a> – команды в Git Bash: навигация, файлы, grep, find, sed, процессы, ping и curl</li>
   <li><a href="https://github.com/qa-novchenkova/git">Git</a> – базовые операции и ситуации, с которыми я сталкивалась на работе</li>
-  <li><a href="https://github.com/qa-novchenkova/jenkins">CI/CD</a> – Jenkins: Freestyle и Pipeline сборки, параметризованный Jenkinsfile, запуск тестов </li>
 </ul>
 
 <ul style="margin-top:30px;">
+<li><a href="https://github.com/qa-novchenkova/jenkins">CI/CD</a> – Jenkins: Freestyle и Pipeline сборки, параметризованный Jenkinsfile, запуск тестов </li>
 <li>
   <a href="https://github.com/qa-novchenkova/qa-dev-toolbox" target="_blank">QA Dev Toolbox</a> –
   React-приложение с QA-инструментами, автотестами, сборкой через GitHub Actions и деплоем на
