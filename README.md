@@ -31,6 +31,12 @@
 <p>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40"/></a>&nbsp;
   <a href="https://testit.software/" target="_blank"><img src="https://img.shields.io/badge/Test_IT-090909?style=flat" alt="Test IT"/></a>&nbsp;
+  <a href="https://docs.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=flat&logo=googledocs&logoColor=white" title="Google Docs" alt="Google Docs"/>
+  </a>&nbsp;
+  <a href="https://www.google.com/sheets/about/" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" title="Google Sheets" alt="Google Sheets"/>
+  </a>&nbsp;
  </p>
 
 
