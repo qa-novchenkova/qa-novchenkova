@@ -1,12 +1,18 @@
-# Привет👋!
+# Варвара Новченкова | QA Engineer
 
-👩🏻‍💻 Меня зовут Варвара и я **QA-инженер**. Здесь делюсь результатами тестирования **веб-** и **мобильных приложений**, разработанных в рамках курсов и личных проектов. Добро пожаловать в моё портфолио.
+⚡Перехожу в QA из веб-разработки: за 16+ лет в IT работала с коммерческими сайтами, CMS, версткой, формами, личными кабинетами, API, базами данных и техническим сопровождением проектов.
 
-<h2>Немного фактов обо мне</h2>
+🌱 Сейчас развиваюсь в Manual QA: тестирую web, API и mobile, работаю с SQL, Postman, Charles Proxy, составляю чек-листы, оформляю тест-кейсы в TestIT и баг-репорты в Jira.
 
-⚡ В IT **больше 15 лет**: вёрстка, разработка и функциональное тестирование **в роли backend/frontend-разработчика** (самопроверка, регресс по своим задачам, взаимодействие с тестировщиками).
+<h2>Что я умею тестировать</h2>
 
-🌱 Сейчас **системно углубляюсь в ручное тестирование**.
+- Web-приложения: формы, авторизация, личные кабинеты, каталоги, корзины, админки CMS
+- API: REST/SOAP, Postman, Swagger/OpenAPI, SoapUI
+- Базы данных: SQL-запросы, проверки данных после API-запросов
+- UI/UX: адаптив, кроссбраузерность, сверка с макетами Figma/Adobe XD
+- Регресс: проверки после доработок, релизов, обновлений CMS и переносов
+- Mobile: Android-приложения и mobile web
+- Трафик: Charles Proxy, HTTPS-перехват, Rewrite, Map Remote/Local
 
 
 ## Резюме
@@ -24,12 +30,26 @@
 
 <p>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40"/></a>&nbsp;
-  <a href="https://www.jetbrains.com/ru-ru/youtrack/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/YouTrack_Icon.svg" title="YouTrack" alt="YouTrack" width="40"/></a>&nbsp;
-  <a href="https://www.testrail.com" target="_blank"><img src="https://cdn.simpleicons.org/testrail/45C7F7" title="TestRail" alt="TestRail" width="40"/></a>&nbsp;
   <a href="https://testit.software/" target="_blank"><img src="https://img.shields.io/badge/Test_IT-090909?style=flat" alt="Test IT"/></a>&nbsp;
-  <a href="https://qase.io/" target="_blank"><img src="https://cdn.simpleicons.org/qase/000000" title="Qase" alt="Qase" width="40"/></a>&nbsp;
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40"/></a>&nbsp;
  </p>
+
+
+### Работа с требованиями и макетами
+
+<p>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40"/>
+  </a>&nbsp;
+  <a href="https://helpx.adobe.com/xd/get-started.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-original.svg" title="Adobe XD" alt="Adobe XD" width="40"/>
+  </a>&nbsp;
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40"/>
+  </a>&nbsp;
+  <a href="https://www.axure.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Axure-7D4CDB?style=flat&logoColor=white" title="Axure" alt="Axure"/>
+  </a>&nbsp;
+</p>
 
 
 ### Тестирование веб-приложений
@@ -45,10 +65,7 @@
 
 <p>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40"/></a>&nbsp;
-  <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40"/></a>&nbsp;
   <a href="https://www.charlesproxy.com/" target="_blank"><img src="https://images.icon-icons.com/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="Charles Proxy" width="40"/></a>&nbsp;
-  <a href="https://www.telerik.com/download/fiddler" target="_blank"><img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="Fiddler" width="40"/></a>&nbsp;
-  <a href="https://proxyman.com/" target="_blank"><img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="Proxyman" alt="Proxyman" width="40"/></a>&nbsp;
 </p>
 
 
@@ -85,7 +102,7 @@
  
 
 
-## Тестовые артефакты
+## QA-портфолио
 
 <ul>
   <li><a href="https://github.com/qa-novchenkova/web_testing"  target="_blank">Web</a> – исследовательское и функциональное тестирование</li>
