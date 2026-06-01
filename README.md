@@ -17,12 +17,12 @@
 
 ## Резюме
 
-[Резюме — ссылка будет добавлена](#)
+[Резюме hh.ru](https://spb.hh.ru/resume/9c00fe7dff10922bd20039ed1f4863556b6b79)
 
 
 ## Контакты
 
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:novchenkova.v@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://example.com) [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:novchenkova.v@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/novchenkova/) [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/novchenkova)
 
 
 
