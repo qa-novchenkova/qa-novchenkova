@@ -80,6 +80,7 @@
 <p>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40"/></a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40"/></a>&nbsp;
+  <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://img.shields.io/badge/phpMyAdmin-F7A600?style=flat&logo=phpmyadmin&logoColor=white" title="phpMyAdmin" alt="phpMyAdmin"/></a>&nbsp;
 </p>
 
 
