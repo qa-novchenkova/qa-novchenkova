@@ -95,6 +95,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/PuTTY-222222?style=flat" title="PuTTY" alt="PuTTY"/></a>&nbsp;
   <a href="https://filezilla-project.org/" target="_blank"><img src="https://cdn.simpleicons.org/filezilla/BF0000" title="FileZilla" alt="FileZilla" width="40"/></a>&nbsp;
   <a href="https://ospanel.io/" target="_blank"><img src="https://img.shields.io/badge/OpenServer-4B8BBE?style=flat" title="OpenServer" alt="OpenServer"/></a>&nbsp;
+  <a href="https://winscp.net/" target="_blank"><img src="https://img.shields.io/badge/WinSCP-0078D7?style=flat&logoColor=white" title="WinSCP" alt="WinSCP"/></a>&nbsp;
 </p>
 
 ### CI/CD
