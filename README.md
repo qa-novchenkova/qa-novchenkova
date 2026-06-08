@@ -4,6 +4,8 @@
 
 🌱 Сейчас развиваюсь в Manual QA: тестирую web, API и mobile, работаю с SQL, Postman, Charles Proxy, составляю чек-листы, оформляю тест-кейсы в TestIT и баг-репорты в Jira.
 
+🤖 Постепенно погружаюсь в автоматизацию тестирования (Python, Selenium, pytest, Allure) и мониторинг (Elasticsearch, Kibana, Docker). Активно использую AI-агентов (Cursor) в QA-задачах: генерация автотестов, тестовых данных, чек-листов, анализ баг-репортов и подготовка документации.
+
 <h2>Что я умею тестировать</h2>
 
 - Web-приложения: формы, авторизация, личные кабинеты, каталоги, корзины, админки CMS
@@ -13,6 +15,8 @@
 - Регресс: проверки после доработок, релизов, обновлений CMS и переносов
 - Mobile: Android-приложения и mobile web
 - Трафик: Charles Proxy, HTTPS-перехват, Rewrite, Map Remote/Local
+- Автоматизация (осваиваю): UI-автотесты на Selenium + pytest по паттерну Page Object, отчёты Allure, запуск в CI
+- Мониторинг: внешняя проверка доступности сайтов, структурированные логи в Elasticsearch, дашборды в Kibana
 
 
 ## Резюме
@@ -37,6 +41,7 @@
   <a href="https://www.google.com/sheets/about/" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" title="Google Sheets" alt="Google Sheets"/>
   </a>&nbsp;
+  <a href="https://qa-novchenkova.github.io/qa-monitoring/" target="_blank"><img src="https://img.shields.io/badge/Allure-FF6A00?style=flat" title="Allure Report" alt="Allure"/></a>&nbsp;
  </p>
 
 
@@ -104,10 +109,18 @@
   <a href="https://www.jenkins.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40"/></a><a href="https://github.com/features/actions" target="_blank">
     <img src="https://cdn.simpleicons.org/githubactions/2088FF" title="GitHub Actions" alt="GitHub Actions" width="40"/>
-  </a>
+  </a>&nbsp;
+  <a href="https://www.selenium.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40"/></a>&nbsp;
+  <a href="https://docs.pytest.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40"/></a>&nbsp;
 </p>
 
- 
+ ### Мониторинг и логирование
+
+<p>
+  <a href="https://www.elastic.co/elasticsearch" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" title="Elasticsearch" alt="Elasticsearch" width="40"/></a>&nbsp;
+  <a href="https://www.elastic.co/kibana" target="_blank"><img src="https://cdn.simpleicons.org/kibana/005571" title="Kibana" alt="Kibana" width="40"/></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40"/></a>&nbsp;
+</p>
 
 
 ## QA-портфолио
@@ -130,4 +143,10 @@
   React-приложение с QA-инструментами, автотестами, сборкой через GitHub Actions и деплоем на
   <a href="https://qa-novchenkova.github.io/qa-dev-toolbox/" target="_blank">GitHub Pages</a>
 </li>
+  <li>
+    <a href="https://github.com/qa-novchenkova/qa-monitoring" target="_blank">QA Monitoring</a> –
+    автотесты на Selenium + pytest (Page Object) с отчётами Allure, мониторинг доступности сайтов
+    (Elasticsearch + Kibana, Docker), CI/CD на GitHub Actions и Telegram-оповещения; проект собран
+    с помощью AI-агента (Cursor)
+  </li>
 </ul>
