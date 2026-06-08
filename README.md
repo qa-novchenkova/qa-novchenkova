@@ -139,12 +139,11 @@
 <ul style="margin-top:30px;">
 <li><a href="https://github.com/qa-novchenkova/jenkins">CI/CD</a> – Jenkins: Freestyle и Pipeline сборки, параметризованный Jenkinsfile, запуск тестов </li>
 <li>
-  <a href="https://github.com/qa-novchenkova/qa-dev-toolbox" target="_blank">QA Dev Toolbox</a> –
-  React-приложение с QA-инструментами, автотестами, сборкой через GitHub Actions и деплоем на
+  <a href="https://github.com/qa-novchenkova/qa-dev-toolbox/blob/main/README.md" target="_blank">QA Dev Toolbox</a> – React-приложение с QA-инструментами, автотестами, сборкой через GitHub Actions и деплоем на
   <a href="https://qa-novchenkova.github.io/qa-dev-toolbox/" target="_blank">GitHub Pages</a>
 </li>
   <li>
-    <a href="https://github.com/qa-novchenkova/qa-monitoring" target="_blank">QA Monitoring</a> –
+    <a href="https://github.com/qa-novchenkova/qa-monitoring/blob/main/README.md" target="_blank">QA Monitoring</a> –
     автотесты на Selenium + pytest (Page Object) с отчётами Allure, мониторинг доступности сайтов
     (Elasticsearch + Kibana, Docker), CI/CD на GitHub Actions и Telegram-оповещения; проект собран
     с помощью AI-агента (Cursor)
